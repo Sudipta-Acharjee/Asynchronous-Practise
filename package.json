@@ -1,0 +1,22 @@
+{
+  "name": "asynchronous-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudipta-Acharjee/Asynchronous-Practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sudipta-Acharjee/Asynchronous-Practise/issues"
+  },
+  "homepage": "https://github.com/Sudipta-Acharjee/Asynchronous-Practise#readme",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
